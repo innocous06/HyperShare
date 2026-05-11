@@ -7,3 +7,4 @@
 - [2026-05-11 09:30] style: add drag-and-drop file upload zone with animated progress bar
 - [2026-05-11 13:23] test: add end-to-end tests for peer reconnection logic
 - [2026-05-11 18:01] feat: add end-to-end AES-GCM file encryption layer
+- [2026-05-11 18:30] fix: memory leak in revoked ObjectURL references
