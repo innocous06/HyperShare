@@ -5,3 +5,4 @@
 - [2026-05-08 21:41] docs: update setup and local signaling server guide
 - [2026-05-09 18:01] refactor: streamline peer connection state machine
 - [2026-05-11 09:30] style: add drag-and-drop file upload zone with animated progress bar
+- [2026-05-11 13:23] test: add end-to-end tests for peer reconnection logic
