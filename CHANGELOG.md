@@ -14,3 +14,4 @@
 - [2026-05-13 10:17] refactor: streamline peer connection state machine
 - [2026-05-13 11:15] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-05-13 13:12] feat: chunked file streaming with binary ArrayBuffer slicing
+- [2026-05-13 14:45] feat: add QR code room sharing for fast mobile pairing
