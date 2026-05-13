@@ -11,3 +11,4 @@
 - [2026-05-11 19:59] test: add end-to-end tests for peer reconnection logic
 - [2026-05-11 21:00] perf: optimize buffer memory allocation in stream writer
 - [2026-05-13 10:10] feat: add QR code room sharing for fast mobile pairing
+- [2026-05-13 10:17] refactor: streamline peer connection state machine
