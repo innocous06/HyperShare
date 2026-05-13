@@ -12,3 +12,4 @@
 - [2026-05-11 21:00] perf: optimize buffer memory allocation in stream writer
 - [2026-05-13 10:10] feat: add QR code room sharing for fast mobile pairing
 - [2026-05-13 10:17] refactor: streamline peer connection state machine
+- [2026-05-13 11:15] fix: handle ICE candidate exchange timeout on restrictive NATs
