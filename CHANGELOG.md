@@ -17,3 +17,4 @@
 - [2026-05-13 14:45] feat: add QR code room sharing for fast mobile pairing
 - [2026-05-13 14:59] perf: optimize buffer memory allocation in stream writer
 - [2026-05-13 15:40] style: add drag-and-drop file upload zone with animated progress bar
+- [2026-05-13 21:49] perf: optimize buffer memory allocation in stream writer
