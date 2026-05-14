@@ -22,3 +22,4 @@
 - [2026-05-14 14:20] fix: memory leak in revoked ObjectURL references
 - [2026-05-14 14:54] fix: memory leak in revoked ObjectURL references
 - [2026-05-14 19:47] refactor: streamline peer connection state machine
+- [2026-05-14 20:18] refactor: streamline peer connection state machine
