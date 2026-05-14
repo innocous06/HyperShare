@@ -21,3 +21,4 @@
 - [2026-05-13 23:28] test: add end-to-end tests for peer reconnection logic
 - [2026-05-14 14:20] fix: memory leak in revoked ObjectURL references
 - [2026-05-14 14:54] fix: memory leak in revoked ObjectURL references
+- [2026-05-14 19:47] refactor: streamline peer connection state machine
