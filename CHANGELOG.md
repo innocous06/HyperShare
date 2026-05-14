@@ -19,3 +19,4 @@
 - [2026-05-13 15:40] style: add drag-and-drop file upload zone with animated progress bar
 - [2026-05-13 21:49] perf: optimize buffer memory allocation in stream writer
 - [2026-05-13 23:28] test: add end-to-end tests for peer reconnection logic
+- [2026-05-14 14:20] fix: memory leak in revoked ObjectURL references
