@@ -28,3 +28,4 @@
 - [2026-05-15 11:06] feat: add QR code room sharing for fast mobile pairing
 - [2026-05-15 12:17] docs: document P2P signaling architecture and security model
 - [2026-05-15 19:28] feat: add end-to-end AES-GCM file encryption layer
+- [2026-05-15 20:15] feat: add QR code room sharing for fast mobile pairing
