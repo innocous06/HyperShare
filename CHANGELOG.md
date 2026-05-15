@@ -24,3 +24,4 @@
 - [2026-05-14 19:47] refactor: streamline peer connection state machine
 - [2026-05-14 20:18] refactor: streamline peer connection state machine
 - [2026-05-14 20:43] perf: optimize buffer memory allocation in stream writer
+- [2026-05-15 10:48] fix: handle ICE candidate exchange timeout on restrictive NATs
