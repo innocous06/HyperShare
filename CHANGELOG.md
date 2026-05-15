@@ -26,3 +26,4 @@
 - [2026-05-14 20:43] perf: optimize buffer memory allocation in stream writer
 - [2026-05-15 10:48] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-05-15 11:06] feat: add QR code room sharing for fast mobile pairing
+- [2026-05-15 12:17] docs: document P2P signaling architecture and security model
