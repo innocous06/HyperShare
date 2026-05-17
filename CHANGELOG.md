@@ -32,3 +32,4 @@
 - [2026-05-15 21:58] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-05-17 13:57] feat: add end-to-end AES-GCM file encryption layer
 - [2026-05-17 14:01] style: add drag-and-drop file upload zone with animated progress bar
+- [2026-05-17 20:04] feat: add QR code room sharing for fast mobile pairing
