@@ -34,3 +34,4 @@
 - [2026-05-17 14:01] style: add drag-and-drop file upload zone with animated progress bar
 - [2026-05-17 20:04] feat: add QR code room sharing for fast mobile pairing
 - [2026-05-17 20:17] style: add drag-and-drop file upload zone with animated progress bar
+- [2026-05-18 09:17] style: add drag-and-drop file upload zone with animated progress bar
