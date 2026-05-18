@@ -37,3 +37,4 @@
 - [2026-05-18 09:17] style: add drag-and-drop file upload zone with animated progress bar
 - [2026-05-18 09:50] test: add end-to-end tests for peer reconnection logic
 - [2026-05-18 10:04] fix: handle ICE candidate exchange timeout on restrictive NATs
+- [2026-05-18 11:09] feat: implement WebRTC data channel handshake with STUN/TURN servers
