@@ -42,3 +42,4 @@
 - [2026-05-18 17:56] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-05-18 21:38] refactor: streamline peer connection state machine
 - [2026-05-19 10:42] fix: handle ICE candidate exchange timeout on restrictive NATs
+- [2026-05-19 17:21] perf: optimize buffer memory allocation in stream writer
