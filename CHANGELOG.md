@@ -43,3 +43,4 @@
 - [2026-05-18 21:38] refactor: streamline peer connection state machine
 - [2026-05-19 10:42] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-05-19 17:21] perf: optimize buffer memory allocation in stream writer
+- [2026-05-19 19:11] docs: document P2P signaling architecture and security model
