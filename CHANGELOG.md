@@ -47,3 +47,4 @@
 - [2026-05-20 09:02] docs: update setup and local signaling server guide
 - [2026-05-20 09:03] refactor: streamline peer connection state machine
 - [2026-05-20 12:34] feat: add QR code room sharing for fast mobile pairing
+- [2026-05-20 16:59] feat: add QR code room sharing for fast mobile pairing
