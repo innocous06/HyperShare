@@ -46,3 +46,4 @@
 - [2026-05-19 19:11] docs: document P2P signaling architecture and security model
 - [2026-05-20 09:02] docs: update setup and local signaling server guide
 - [2026-05-20 09:03] refactor: streamline peer connection state machine
+- [2026-05-20 12:34] feat: add QR code room sharing for fast mobile pairing
