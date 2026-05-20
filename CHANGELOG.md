@@ -48,3 +48,4 @@
 - [2026-05-20 09:03] refactor: streamline peer connection state machine
 - [2026-05-20 12:34] feat: add QR code room sharing for fast mobile pairing
 - [2026-05-20 16:59] feat: add QR code room sharing for fast mobile pairing
+- [2026-05-20 18:19] fix: resolve packet drop on large file transfers (>1GB)
