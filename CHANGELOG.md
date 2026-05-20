@@ -44,3 +44,4 @@
 - [2026-05-19 10:42] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-05-19 17:21] perf: optimize buffer memory allocation in stream writer
 - [2026-05-19 19:11] docs: document P2P signaling architecture and security model
+- [2026-05-20 09:02] docs: update setup and local signaling server guide
