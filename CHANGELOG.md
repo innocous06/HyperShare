@@ -51,3 +51,4 @@
 - [2026-05-20 18:19] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-05-20 20:17] feat: add end-to-end AES-GCM file encryption layer
 - [2026-05-20 20:44] refactor: streamline peer connection state machine
+- [2026-05-21 14:45] fix: handle ICE candidate exchange timeout on restrictive NATs
