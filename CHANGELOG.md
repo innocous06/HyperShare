@@ -52,3 +52,4 @@
 - [2026-05-20 20:17] feat: add end-to-end AES-GCM file encryption layer
 - [2026-05-20 20:44] refactor: streamline peer connection state machine
 - [2026-05-21 14:45] fix: handle ICE candidate exchange timeout on restrictive NATs
+- [2026-05-21 16:53] feat: add end-to-end AES-GCM file encryption layer
