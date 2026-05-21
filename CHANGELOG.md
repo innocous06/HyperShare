@@ -54,3 +54,4 @@
 - [2026-05-21 14:45] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-05-21 16:53] feat: add end-to-end AES-GCM file encryption layer
 - [2026-05-21 19:02] perf: optimize buffer memory allocation in stream writer
+- [2026-05-21 19:55] feat: implement WebRTC data channel handshake with STUN/TURN servers
