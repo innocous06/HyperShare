@@ -56,3 +56,4 @@
 - [2026-05-21 19:02] perf: optimize buffer memory allocation in stream writer
 - [2026-05-21 19:55] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-05-21 20:21] docs: update setup and local signaling server guide
+- [2026-05-22 08:20] feat: add end-to-end AES-GCM file encryption layer
