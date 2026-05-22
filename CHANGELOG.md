@@ -61,3 +61,4 @@
 - [2026-05-22 11:50] fix: memory leak in revoked ObjectURL references
 - [2026-05-22 13:42] fix: memory leak in revoked ObjectURL references
 - [2026-05-22 14:22] refactor: streamline peer connection state machine
+- [2026-05-22 17:14] fix: resolve packet drop on large file transfers (>1GB)
