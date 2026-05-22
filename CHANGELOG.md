@@ -58,3 +58,4 @@
 - [2026-05-21 20:21] docs: update setup and local signaling server guide
 - [2026-05-22 08:20] feat: add end-to-end AES-GCM file encryption layer
 - [2026-05-22 09:59] fix: resolve packet drop on large file transfers (>1GB)
+- [2026-05-22 11:50] fix: memory leak in revoked ObjectURL references
