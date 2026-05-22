@@ -59,3 +59,4 @@
 - [2026-05-22 08:20] feat: add end-to-end AES-GCM file encryption layer
 - [2026-05-22 09:59] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-05-22 11:50] fix: memory leak in revoked ObjectURL references
+- [2026-05-22 13:42] fix: memory leak in revoked ObjectURL references
