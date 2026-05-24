@@ -69,3 +69,4 @@
 - [2026-05-24 13:04] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-05-24 13:10] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-05-24 13:39] feat: implement WebRTC data channel handshake with STUN/TURN servers
+- [2026-05-24 16:45] fix: memory leak in revoked ObjectURL references
