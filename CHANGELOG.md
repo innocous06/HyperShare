@@ -67,3 +67,4 @@
 - [2026-05-22 21:30] docs: update setup and local signaling server guide
 - [2026-05-24 10:51] refactor: streamline peer connection state machine
 - [2026-05-24 13:04] feat: chunked file streaming with binary ArrayBuffer slicing
+- [2026-05-24 13:10] feat: implement WebRTC data channel handshake with STUN/TURN servers
