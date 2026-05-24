@@ -66,3 +66,4 @@
 - [2026-05-22 18:13] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-05-22 21:30] docs: update setup and local signaling server guide
 - [2026-05-24 10:51] refactor: streamline peer connection state machine
+- [2026-05-24 13:04] feat: chunked file streaming with binary ArrayBuffer slicing
