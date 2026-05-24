@@ -65,3 +65,4 @@
 - [2026-05-22 17:32] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-05-22 18:13] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-05-22 21:30] docs: update setup and local signaling server guide
+- [2026-05-24 10:51] refactor: streamline peer connection state machine
