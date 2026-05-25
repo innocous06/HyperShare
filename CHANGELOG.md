@@ -78,3 +78,4 @@
 - [2026-05-25 15:04] feat: add QR code room sharing for fast mobile pairing
 - [2026-05-25 18:38] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-05-25 19:51] docs: update setup and local signaling server guide
+- [2026-05-25 21:12] fix: resolve packet drop on large file transfers (>1GB)
