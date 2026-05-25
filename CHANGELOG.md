@@ -74,3 +74,4 @@
 - [2026-05-25 07:00] refactor: streamline peer connection state machine
 - [2026-05-25 10:06] docs: document P2P signaling architecture and security model
 - [2026-05-25 10:35] docs: update setup and local signaling server guide
+- [2026-05-25 10:49] test: add end-to-end tests for peer reconnection logic
