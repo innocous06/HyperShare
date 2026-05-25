@@ -76,3 +76,4 @@
 - [2026-05-25 10:35] docs: update setup and local signaling server guide
 - [2026-05-25 10:49] test: add end-to-end tests for peer reconnection logic
 - [2026-05-25 15:04] feat: add QR code room sharing for fast mobile pairing
+- [2026-05-25 18:38] fix: resolve packet drop on large file transfers (>1GB)
