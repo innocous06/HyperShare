@@ -72,3 +72,4 @@
 - [2026-05-24 16:45] fix: memory leak in revoked ObjectURL references
 - [2026-05-24 19:07] test: add end-to-end tests for peer reconnection logic
 - [2026-05-25 07:00] refactor: streamline peer connection state machine
+- [2026-05-25 10:06] docs: document P2P signaling architecture and security model
