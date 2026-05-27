@@ -82,3 +82,4 @@
 - [2026-05-26 18:06] feat: add QR code room sharing for fast mobile pairing
 - [2026-05-27 10:33] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-05-27 19:16] style: add drag-and-drop file upload zone with animated progress bar
+- [2026-05-27 21:35] docs: document P2P signaling architecture and security model
