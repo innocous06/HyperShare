@@ -80,3 +80,4 @@
 - [2026-05-25 19:51] docs: update setup and local signaling server guide
 - [2026-05-25 21:12] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-05-26 18:06] feat: add QR code room sharing for fast mobile pairing
+- [2026-05-27 10:33] feat: implement WebRTC data channel handshake with STUN/TURN servers
