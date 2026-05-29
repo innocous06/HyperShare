@@ -87,3 +87,4 @@
 - [2026-05-29 15:49] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-05-29 20:00] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-05-29 20:27] fix: resolve packet drop on large file transfers (>1GB)
+- [2026-05-29 21:42] feat: chunked file streaming with binary ArrayBuffer slicing
