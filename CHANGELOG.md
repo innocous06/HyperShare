@@ -6,3 +6,4 @@
 - [2026-05-23 20:48] refactor: streamline peer connection state machine
 - [2026-05-24 12:52] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-05-29 10:43] fix: memory leak in revoked ObjectURL references
+- [2026-05-30 15:22] feat: add SHA-256 integrity checksum verification before save
