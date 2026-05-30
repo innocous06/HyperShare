@@ -97,3 +97,4 @@
 - [2026-05-30 11:41] test: add end-to-end tests for peer reconnection logic
 - [2026-05-30 11:43] test: add end-to-end tests for peer reconnection logic
 - [2026-05-30 12:05] feat: add end-to-end AES-GCM file encryption layer
+- [2026-05-30 12:39] feat: implement WebRTC data channel handshake with STUN/TURN servers
