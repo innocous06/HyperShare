@@ -92,3 +92,4 @@
 - [2026-05-30 09:12] test: add end-to-end tests for peer reconnection logic
 - [2026-05-30 09:46] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-05-30 10:36] feat: add end-to-end AES-GCM file encryption layer
+- [2026-05-30 11:22] fix: resolve packet drop on large file transfers (>1GB)
