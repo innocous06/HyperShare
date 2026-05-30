@@ -93,3 +93,4 @@
 - [2026-05-30 09:46] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-05-30 10:36] feat: add end-to-end AES-GCM file encryption layer
 - [2026-05-30 11:22] fix: resolve packet drop on large file transfers (>1GB)
+- [2026-05-30 11:38] feat: implement WebRTC data channel handshake with STUN/TURN servers
