@@ -99,3 +99,4 @@
 - [2026-05-30 12:05] feat: add end-to-end AES-GCM file encryption layer
 - [2026-05-30 12:39] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-05-30 13:04] perf: optimize buffer memory allocation in stream writer
+- [2026-05-30 13:56] feat: chunked file streaming with binary ArrayBuffer slicing
