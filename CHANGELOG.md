@@ -90,3 +90,4 @@
 - [2026-05-29 21:42] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-05-30 08:54] docs: document P2P signaling architecture and security model
 - [2026-05-30 09:12] test: add end-to-end tests for peer reconnection logic
+- [2026-05-30 09:46] fix: handle ICE candidate exchange timeout on restrictive NATs
