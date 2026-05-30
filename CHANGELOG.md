@@ -100,3 +100,4 @@
 - [2026-05-30 12:39] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-05-30 13:04] perf: optimize buffer memory allocation in stream writer
 - [2026-05-30 13:56] feat: chunked file streaming with binary ArrayBuffer slicing
+- [2026-05-30 15:38] feat: add QR code room sharing for fast mobile pairing
