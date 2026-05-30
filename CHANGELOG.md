@@ -88,3 +88,4 @@
 - [2026-05-29 20:00] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-05-29 20:27] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-05-29 21:42] feat: chunked file streaming with binary ArrayBuffer slicing
+- [2026-05-30 08:54] docs: document P2P signaling architecture and security model
