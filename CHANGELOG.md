@@ -104,3 +104,4 @@
 - [2026-05-30 17:24] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-05-30 17:38] fix: memory leak in revoked ObjectURL references
 - [2026-05-30 17:43] feat: chunked file streaming with binary ArrayBuffer slicing
+- [2026-05-30 19:33] docs: update setup and local signaling server guide
