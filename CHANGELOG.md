@@ -94,3 +94,4 @@
 - [2026-05-30 10:36] feat: add end-to-end AES-GCM file encryption layer
 - [2026-05-30 11:22] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-05-30 11:38] feat: implement WebRTC data channel handshake with STUN/TURN servers
+- [2026-05-30 11:41] test: add end-to-end tests for peer reconnection logic
