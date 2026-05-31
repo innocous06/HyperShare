@@ -107,3 +107,4 @@
 - [2026-05-30 19:33] docs: update setup and local signaling server guide
 - [2026-05-30 21:06] refactor: streamline peer connection state machine
 - [2026-05-31 10:49] fix: resolve packet drop on large file transfers (>1GB)
+- [2026-05-31 11:50] docs: update setup and local signaling server guide
