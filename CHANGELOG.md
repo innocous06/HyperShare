@@ -113,3 +113,4 @@
 - [2026-05-31 13:56] style: add drag-and-drop file upload zone with animated progress bar
 - [2026-05-31 14:24] refactor: streamline peer connection state machine
 - [2026-05-31 17:01] perf: optimize buffer memory allocation in stream writer
+- [2026-05-31 18:05] docs: update setup and local signaling server guide
