@@ -109,3 +109,4 @@
 - [2026-05-31 10:49] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-05-31 11:50] docs: update setup and local signaling server guide
 - [2026-05-31 13:11] fix: resolve packet drop on large file transfers (>1GB)
+- [2026-05-31 13:54] docs: update setup and local signaling server guide
