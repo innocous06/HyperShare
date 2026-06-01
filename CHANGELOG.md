@@ -6,3 +6,4 @@
 - [2026-05-20 18:54] feat: implement RTCDataChannel backpressure flow control for 1GB+ files
 - [2026-05-24 15:59] feat: add SHA-256 streaming hash verification for file transfer integrity
 - [2026-05-28 20:00] style: build responsive drag-and-drop file upload UI with progress ring
+- [2026-06-01 13:06] fix: handle peer disconnect and cleanup dangling WebRTC peer sessions
