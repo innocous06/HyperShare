@@ -121,3 +121,4 @@
 - [2026-06-03 11:45] feat: add end-to-end AES-GCM file encryption layer
 - [2026-06-03 14:57] docs: update setup and local signaling server guide
 - [2026-06-03 19:16] feat: add QR code room sharing for fast mobile pairing
+- [2026-06-03 20:59] feat: chunked file streaming with binary ArrayBuffer slicing
