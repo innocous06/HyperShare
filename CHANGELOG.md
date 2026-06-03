@@ -118,3 +118,4 @@
 - [2026-06-03 10:44] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-06-03 11:20] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-06-03 11:26] feat: chunked file streaming with binary ArrayBuffer slicing
+- [2026-06-03 11:45] feat: add end-to-end AES-GCM file encryption layer
