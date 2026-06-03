@@ -115,3 +115,4 @@
 - [2026-05-31 17:01] perf: optimize buffer memory allocation in stream writer
 - [2026-05-31 18:05] docs: update setup and local signaling server guide
 - [2026-05-31 21:53] refactor: streamline peer connection state machine
+- [2026-06-03 10:44] feat: chunked file streaming with binary ArrayBuffer slicing
