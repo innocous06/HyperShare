@@ -128,3 +128,4 @@
 - [2026-06-04 14:24] test: add end-to-end tests for peer reconnection logic
 - [2026-06-04 15:56] perf: optimize buffer memory allocation in stream writer
 - [2026-06-04 16:22] style: add drag-and-drop file upload zone with animated progress bar
+- [2026-06-04 17:14] feat: add QR code room sharing for fast mobile pairing
