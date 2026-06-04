@@ -122,3 +122,4 @@
 - [2026-06-03 14:57] docs: update setup and local signaling server guide
 - [2026-06-03 19:16] feat: add QR code room sharing for fast mobile pairing
 - [2026-06-03 20:59] feat: chunked file streaming with binary ArrayBuffer slicing
+- [2026-06-04 09:45] fix: memory leak in revoked ObjectURL references
