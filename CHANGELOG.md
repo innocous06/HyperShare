@@ -131,3 +131,4 @@
 - [2026-06-04 17:14] feat: add QR code room sharing for fast mobile pairing
 - [2026-06-04 17:56] feat: add SHA-256 integrity checksum verification before save
 - [2026-06-04 18:34] style: add drag-and-drop file upload zone with animated progress bar
+- [2026-06-04 19:03] feat: add SHA-256 integrity checksum verification before save
