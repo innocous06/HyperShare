@@ -124,3 +124,4 @@
 - [2026-06-03 20:59] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-06-04 09:45] fix: memory leak in revoked ObjectURL references
 - [2026-06-04 10:18] feat: implement WebRTC data channel handshake with STUN/TURN servers
+- [2026-06-04 13:04] fix: resolve packet drop on large file transfers (>1GB)
