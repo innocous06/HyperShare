@@ -125,3 +125,4 @@
 - [2026-06-04 09:45] fix: memory leak in revoked ObjectURL references
 - [2026-06-04 10:18] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-06-04 13:04] fix: resolve packet drop on large file transfers (>1GB)
+- [2026-06-04 14:24] test: add end-to-end tests for peer reconnection logic
