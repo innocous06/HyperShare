@@ -134,3 +134,4 @@
 - [2026-06-04 19:03] feat: add SHA-256 integrity checksum verification before save
 - [2026-06-04 19:19] feat: add end-to-end AES-GCM file encryption layer
 - [2026-06-04 20:10] docs: update setup and local signaling server guide
+- [2026-06-04 20:42] feat: implement WebRTC data channel handshake with STUN/TURN servers
