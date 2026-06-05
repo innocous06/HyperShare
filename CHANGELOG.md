@@ -137,3 +137,4 @@
 - [2026-06-04 20:42] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-06-04 20:43] feat: add SHA-256 integrity checksum verification before save
 - [2026-06-05 13:40] style: add drag-and-drop file upload zone with animated progress bar
+- [2026-06-05 16:00] fix: resolve packet drop on large file transfers (>1GB)
