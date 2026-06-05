@@ -7,3 +7,4 @@
 - [2026-05-24 12:52] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-05-29 10:43] fix: memory leak in revoked ObjectURL references
 - [2026-05-30 15:22] feat: add SHA-256 integrity checksum verification before save
+- [2026-06-05 13:19] style: add drag-and-drop file upload zone with animated progress bar
