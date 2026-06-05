@@ -139,3 +139,4 @@
 - [2026-06-05 13:40] style: add drag-and-drop file upload zone with animated progress bar
 - [2026-06-05 16:00] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-06-05 20:37] feat: add end-to-end AES-GCM file encryption layer
+- [2026-06-05 21:47] docs: update setup and local signaling server guide
