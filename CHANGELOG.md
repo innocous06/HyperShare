@@ -136,3 +136,4 @@
 - [2026-06-04 20:10] docs: update setup and local signaling server guide
 - [2026-06-04 20:42] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-06-04 20:43] feat: add SHA-256 integrity checksum verification before save
+- [2026-06-05 13:40] style: add drag-and-drop file upload zone with animated progress bar
