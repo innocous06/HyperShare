@@ -141,3 +141,4 @@
 - [2026-06-05 20:37] feat: add end-to-end AES-GCM file encryption layer
 - [2026-06-05 21:47] docs: update setup and local signaling server guide
 - [2026-06-06 14:07] perf: optimize buffer memory allocation in stream writer
+- [2026-06-06 16:35] test: add end-to-end tests for peer reconnection logic
