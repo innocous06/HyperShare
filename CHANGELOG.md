@@ -9,3 +9,4 @@
 - [2026-05-30 15:22] feat: add SHA-256 integrity checksum verification before save
 - [2026-06-05 13:19] style: add drag-and-drop file upload zone with animated progress bar
 - [2026-06-05 14:33] feat: add SHA-256 integrity checksum verification before save
+- [2026-06-06 11:04] fix: resolve packet drop on large file transfers (>1GB)
