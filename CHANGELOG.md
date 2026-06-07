@@ -143,3 +143,4 @@
 - [2026-06-06 14:07] perf: optimize buffer memory allocation in stream writer
 - [2026-06-06 16:35] test: add end-to-end tests for peer reconnection logic
 - [2026-06-07 09:52] style: add drag-and-drop file upload zone with animated progress bar
+- [2026-06-07 21:25] refactor: streamline peer connection state machine
