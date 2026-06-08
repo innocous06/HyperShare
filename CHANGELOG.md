@@ -147,3 +147,4 @@
 - [2026-06-08 13:41] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-06-08 14:08] docs: document P2P signaling architecture and security model
 - [2026-06-08 17:01] feat: implement WebRTC data channel handshake with STUN/TURN servers
+- [2026-06-08 17:48] refactor: streamline peer connection state machine
