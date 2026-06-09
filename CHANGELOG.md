@@ -12,3 +12,4 @@
 - [2026-06-06 11:04] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-06-07 10:07] style: add drag-and-drop file upload zone with animated progress bar
 - [2026-06-07 18:37] fix: resolve packet drop on large file transfers (>1GB)
+- [2026-06-09 15:20] refactor: streamline peer connection state machine
