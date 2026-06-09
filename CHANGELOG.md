@@ -8,3 +8,4 @@
 - [2026-05-28 20:00] style: build responsive drag-and-drop file upload UI with progress ring
 - [2026-06-01 13:06] fix: handle peer disconnect and cleanup dangling WebRTC peer sessions
 - [2026-06-05 11:21] feat: add QR code generator for instant mobile-to-desktop pairing
+- [2026-06-09 15:59] perf: optimize buffer memory allocation during multi-chunk streaming
