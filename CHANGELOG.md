@@ -150,3 +150,4 @@
 - [2026-06-08 17:48] refactor: streamline peer connection state machine
 - [2026-06-08 19:20] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-06-08 20:41] refactor: streamline peer connection state machine
+- [2026-06-10 15:30] feat: implement WebRTC data channel handshake with STUN/TURN servers
