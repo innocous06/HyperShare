@@ -153,3 +153,4 @@
 - [2026-06-10 15:30] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-06-12 11:45] feat: add QR code room sharing for fast mobile pairing
 - [2026-06-12 12:37] fix: resolve packet drop on large file transfers (>1GB)
+- [2026-06-12 13:05] test: add end-to-end tests for peer reconnection logic
