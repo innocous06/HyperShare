@@ -156,3 +156,4 @@
 - [2026-06-12 13:05] test: add end-to-end tests for peer reconnection logic
 - [2026-06-12 16:17] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-06-12 16:47] refactor: streamline peer connection state machine
+- [2026-06-12 18:53] feat: implement WebRTC data channel handshake with STUN/TURN servers
