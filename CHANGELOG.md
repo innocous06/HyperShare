@@ -9,3 +9,4 @@
 - [2026-06-01 13:06] fix: handle peer disconnect and cleanup dangling WebRTC peer sessions
 - [2026-06-05 11:21] feat: add QR code generator for instant mobile-to-desktop pairing
 - [2026-06-09 15:59] perf: optimize buffer memory allocation during multi-chunk streaming
+- [2026-06-13 13:59] test: add end-to-end simulated packet loss and reconnection test
