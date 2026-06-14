@@ -158,3 +158,4 @@
 - [2026-06-12 16:47] refactor: streamline peer connection state machine
 - [2026-06-12 18:53] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-06-14 09:27] refactor: streamline peer connection state machine
+- [2026-06-14 11:00] feat: add QR code room sharing for fast mobile pairing
