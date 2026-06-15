@@ -170,3 +170,4 @@
 - [2026-06-15 15:04] feat: add QR code room sharing for fast mobile pairing
 - [2026-06-15 15:42] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-06-15 18:21] feat: add end-to-end AES-GCM file encryption layer
+- [2026-06-15 21:54] docs: update setup and local signaling server guide
