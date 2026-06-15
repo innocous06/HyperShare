@@ -167,3 +167,4 @@
 - [2026-06-15 10:59] test: add end-to-end tests for peer reconnection logic
 - [2026-06-15 14:01] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-06-15 14:02] fix: handle ICE candidate exchange timeout on restrictive NATs
+- [2026-06-15 15:04] feat: add QR code room sharing for fast mobile pairing
