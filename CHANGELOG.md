@@ -165,3 +165,4 @@
 - [2026-06-15 09:31] test: add end-to-end tests for peer reconnection logic
 - [2026-06-15 09:33] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-06-15 10:59] test: add end-to-end tests for peer reconnection logic
+- [2026-06-15 14:01] fix: resolve packet drop on large file transfers (>1GB)
