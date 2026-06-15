@@ -162,3 +162,4 @@
 - [2026-06-14 13:42] feat: add SHA-256 integrity checksum verification before save
 - [2026-06-14 14:42] feat: add QR code room sharing for fast mobile pairing
 - [2026-06-14 17:32] refactor: streamline peer connection state machine
+- [2026-06-15 09:31] test: add end-to-end tests for peer reconnection logic
