@@ -169,3 +169,4 @@
 - [2026-06-15 14:02] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-06-15 15:04] feat: add QR code room sharing for fast mobile pairing
 - [2026-06-15 15:42] feat: implement WebRTC data channel handshake with STUN/TURN servers
+- [2026-06-15 18:21] feat: add end-to-end AES-GCM file encryption layer
