@@ -163,3 +163,4 @@
 - [2026-06-14 14:42] feat: add QR code room sharing for fast mobile pairing
 - [2026-06-14 17:32] refactor: streamline peer connection state machine
 - [2026-06-15 09:31] test: add end-to-end tests for peer reconnection logic
+- [2026-06-15 09:33] feat: implement WebRTC data channel handshake with STUN/TURN servers
