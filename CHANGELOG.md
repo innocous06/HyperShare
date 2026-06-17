@@ -10,3 +10,4 @@
 - [2026-06-05 11:21] feat: add QR code generator for instant mobile-to-desktop pairing
 - [2026-06-09 15:59] perf: optimize buffer memory allocation during multi-chunk streaming
 - [2026-06-13 13:59] test: add end-to-end simulated packet loss and reconnection test
+- [2026-06-17 16:25] docs: write technical guide on ICE candidate exchange and TURN fallback
