@@ -172,3 +172,4 @@
 - [2026-06-15 18:21] feat: add end-to-end AES-GCM file encryption layer
 - [2026-06-15 21:54] docs: update setup and local signaling server guide
 - [2026-06-15 22:42] fix: memory leak in revoked ObjectURL references
+- [2026-06-17 09:34] feat: chunked file streaming with binary ArrayBuffer slicing
