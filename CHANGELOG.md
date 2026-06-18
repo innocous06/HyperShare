@@ -178,3 +178,4 @@
 - [2026-06-18 17:58] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-06-18 18:19] style: add drag-and-drop file upload zone with animated progress bar
 - [2026-06-18 18:48] perf: optimize buffer memory allocation in stream writer
+- [2026-06-18 21:54] style: add drag-and-drop file upload zone with animated progress bar
