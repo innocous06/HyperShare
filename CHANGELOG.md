@@ -174,3 +174,4 @@
 - [2026-06-15 22:42] fix: memory leak in revoked ObjectURL references
 - [2026-06-17 09:34] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-06-18 14:53] test: add end-to-end tests for peer reconnection logic
+- [2026-06-18 15:54] fix: handle ICE candidate exchange timeout on restrictive NATs
