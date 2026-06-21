@@ -186,3 +186,4 @@
 - [2026-06-21 11:00] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-06-21 11:32] docs: update setup and local signaling server guide
 - [2026-06-21 13:42] feat: add SHA-256 integrity checksum verification before save
+- [2026-06-21 13:59] feat: chunked file streaming with binary ArrayBuffer slicing
