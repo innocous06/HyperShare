@@ -189,3 +189,4 @@
 - [2026-06-21 13:59] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-06-21 15:41] feat: add end-to-end AES-GCM file encryption layer
 - [2026-06-21 20:41] feat: chunked file streaming with binary ArrayBuffer slicing
+- [2026-06-21 21:26] perf: optimize buffer memory allocation in stream writer
