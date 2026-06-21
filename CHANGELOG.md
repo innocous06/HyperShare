@@ -183,3 +183,4 @@
 - [2026-06-20 15:37] fix: memory leak in revoked ObjectURL references
 - [2026-06-20 16:57] refactor: streamline peer connection state machine
 - [2026-06-21 09:48] perf: optimize buffer memory allocation in stream writer
+- [2026-06-21 11:00] fix: handle ICE candidate exchange timeout on restrictive NATs
