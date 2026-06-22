@@ -190,3 +190,4 @@
 - [2026-06-21 15:41] feat: add end-to-end AES-GCM file encryption layer
 - [2026-06-21 20:41] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-06-21 21:26] perf: optimize buffer memory allocation in stream writer
+- [2026-06-22 17:56] test: add end-to-end tests for peer reconnection logic
