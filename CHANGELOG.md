@@ -192,3 +192,4 @@
 - [2026-06-21 21:26] perf: optimize buffer memory allocation in stream writer
 - [2026-06-22 17:56] test: add end-to-end tests for peer reconnection logic
 - [2026-06-22 19:08] fix: resolve packet drop on large file transfers (>1GB)
+- [2026-06-22 20:12] feat: implement WebRTC data channel handshake with STUN/TURN servers
