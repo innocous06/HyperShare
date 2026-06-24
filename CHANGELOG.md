@@ -198,3 +198,4 @@
 - [2026-06-24 12:08] docs: update setup and local signaling server guide
 - [2026-06-24 15:27] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-06-24 16:16] docs: document P2P signaling architecture and security model
+- [2026-06-24 17:45] docs: document P2P signaling architecture and security model
