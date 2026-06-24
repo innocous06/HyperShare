@@ -195,3 +195,4 @@
 - [2026-06-22 20:12] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-06-24 10:23] fix: memory leak in revoked ObjectURL references
 - [2026-06-24 11:38] feat: implement WebRTC data channel handshake with STUN/TURN servers
+- [2026-06-24 12:08] docs: update setup and local signaling server guide
