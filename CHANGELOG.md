@@ -196,3 +196,4 @@
 - [2026-06-24 10:23] fix: memory leak in revoked ObjectURL references
 - [2026-06-24 11:38] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-06-24 12:08] docs: update setup and local signaling server guide
+- [2026-06-24 15:27] fix: handle ICE candidate exchange timeout on restrictive NATs
