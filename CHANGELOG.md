@@ -203,3 +203,4 @@
 - [2026-06-24 21:23] docs: update setup and local signaling server guide
 - [2026-06-25 10:20] test: add end-to-end tests for peer reconnection logic
 - [2026-06-25 10:41] feat: add QR code room sharing for fast mobile pairing
+- [2026-06-25 10:49] style: add drag-and-drop file upload zone with animated progress bar
