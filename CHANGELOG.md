@@ -208,3 +208,4 @@
 - [2026-06-25 12:57] feat: add QR code room sharing for fast mobile pairing
 - [2026-06-25 14:24] perf: optimize buffer memory allocation in stream writer
 - [2026-06-25 16:34] refactor: streamline peer connection state machine
+- [2026-06-25 21:21] perf: optimize buffer memory allocation in stream writer
