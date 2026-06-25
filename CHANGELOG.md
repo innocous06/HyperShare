@@ -12,3 +12,4 @@
 - [2026-06-13 13:59] test: add end-to-end simulated packet loss and reconnection test
 - [2026-06-17 16:25] docs: write technical guide on ICE candidate exchange and TURN fallback
 - [2026-06-21 16:35] fix: resolve memory leak in revoked window.URL.createObjectURL refs
+- [2026-06-25 17:32] chore: add start.bat and package-lock.json dependency manifest
