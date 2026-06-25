@@ -206,3 +206,4 @@
 - [2026-06-25 10:49] style: add drag-and-drop file upload zone with animated progress bar
 - [2026-06-25 11:43] refactor: streamline peer connection state machine
 - [2026-06-25 12:57] feat: add QR code room sharing for fast mobile pairing
+- [2026-06-25 14:24] perf: optimize buffer memory allocation in stream writer
