@@ -209,3 +209,4 @@
 - [2026-06-25 14:24] perf: optimize buffer memory allocation in stream writer
 - [2026-06-25 16:34] refactor: streamline peer connection state machine
 - [2026-06-25 21:21] perf: optimize buffer memory allocation in stream writer
+- [2026-06-25 21:46] feat: add SHA-256 integrity checksum verification before save
