@@ -211,3 +211,4 @@
 - [2026-06-25 21:21] perf: optimize buffer memory allocation in stream writer
 - [2026-06-25 21:46] feat: add SHA-256 integrity checksum verification before save
 - [2026-06-26 09:55] fix: handle ICE candidate exchange timeout on restrictive NATs
+- [2026-06-26 11:42] feat: implement WebRTC data channel handshake with STUN/TURN servers
