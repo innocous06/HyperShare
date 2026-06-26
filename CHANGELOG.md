@@ -15,3 +15,4 @@
 - [2026-06-09 15:20] refactor: streamline peer connection state machine
 - [2026-06-21 12:36] feat: add SHA-256 integrity checksum verification before save
 - [2026-06-21 20:41] docs: document P2P signaling architecture and security model
+- [2026-06-26 11:00] feat: add SHA-256 integrity checksum verification before save
