@@ -215,3 +215,4 @@
 - [2026-06-26 14:50] style: add drag-and-drop file upload zone with animated progress bar
 - [2026-06-26 15:37] test: add end-to-end tests for peer reconnection logic
 - [2026-06-26 16:53] test: add end-to-end tests for peer reconnection logic
+- [2026-06-26 18:04] feat: add end-to-end AES-GCM file encryption layer
