@@ -220,3 +220,4 @@
 - [2026-06-26 19:34] docs: document P2P signaling architecture and security model
 - [2026-06-27 12:59] docs: document P2P signaling architecture and security model
 - [2026-06-27 13:16] fix: handle ICE candidate exchange timeout on restrictive NATs
+- [2026-06-27 16:54] fix: resolve packet drop on large file transfers (>1GB)
