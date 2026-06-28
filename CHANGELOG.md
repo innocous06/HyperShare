@@ -222,3 +222,4 @@
 - [2026-06-27 13:16] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-06-27 16:54] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-06-27 17:00] feat: implement WebRTC data channel handshake with STUN/TURN servers
+- [2026-06-28 11:14] feat: add SHA-256 integrity checksum verification before save
