@@ -223,3 +223,4 @@
 - [2026-06-27 16:54] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-06-27 17:00] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-06-28 11:14] feat: add SHA-256 integrity checksum verification before save
+- [2026-06-29 13:02] feat: add QR code room sharing for fast mobile pairing
