@@ -230,3 +230,4 @@
 - [2026-06-30 13:04] docs: update setup and local signaling server guide
 - [2026-06-30 13:34] perf: optimize buffer memory allocation in stream writer
 - [2026-06-30 14:52] feat: implement WebRTC data channel handshake with STUN/TURN servers
+- [2026-06-30 18:01] style: add drag-and-drop file upload zone with animated progress bar
