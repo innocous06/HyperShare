@@ -228,3 +228,4 @@
 - [2026-06-29 19:56] fix: memory leak in revoked ObjectURL references
 - [2026-06-30 11:42] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-06-30 13:04] docs: update setup and local signaling server guide
+- [2026-06-30 13:34] perf: optimize buffer memory allocation in stream writer
