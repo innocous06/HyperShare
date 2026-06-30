@@ -226,3 +226,4 @@
 - [2026-06-29 13:02] feat: add QR code room sharing for fast mobile pairing
 - [2026-06-29 19:49] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-06-29 19:56] fix: memory leak in revoked ObjectURL references
+- [2026-06-30 11:42] feat: chunked file streaming with binary ArrayBuffer slicing
