@@ -229,3 +229,4 @@
 - [2026-06-30 11:42] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-06-30 13:04] docs: update setup and local signaling server guide
 - [2026-06-30 13:34] perf: optimize buffer memory allocation in stream writer
+- [2026-06-30 14:52] feat: implement WebRTC data channel handshake with STUN/TURN servers
