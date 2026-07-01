@@ -232,3 +232,4 @@
 - [2026-06-30 14:52] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-06-30 18:01] style: add drag-and-drop file upload zone with animated progress bar
 - [2026-07-01 07:11] feat: implement WebRTC data channel handshake with STUN/TURN servers
+- [2026-07-01 09:14] fix: memory leak in revoked ObjectURL references
