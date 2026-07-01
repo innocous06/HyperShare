@@ -236,3 +236,4 @@
 - [2026-07-01 09:51] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-07-01 10:14] feat: add SHA-256 integrity checksum verification before save
 - [2026-07-01 11:42] docs: document P2P signaling architecture and security model
+- [2026-07-01 13:21] feat: implement WebRTC data channel handshake with STUN/TURN servers
