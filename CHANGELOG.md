@@ -234,3 +234,4 @@
 - [2026-07-01 07:11] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-07-01 09:14] fix: memory leak in revoked ObjectURL references
 - [2026-07-01 09:51] fix: handle ICE candidate exchange timeout on restrictive NATs
+- [2026-07-01 10:14] feat: add SHA-256 integrity checksum verification before save
