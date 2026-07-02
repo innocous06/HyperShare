@@ -240,3 +240,4 @@
 - [2026-07-01 15:45] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-07-01 16:53] fix: memory leak in revoked ObjectURL references
 - [2026-07-01 21:23] feat: add QR code room sharing for fast mobile pairing
+- [2026-07-02 11:40] feat: implement WebRTC data channel handshake with STUN/TURN servers
