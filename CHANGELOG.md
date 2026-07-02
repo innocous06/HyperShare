@@ -242,3 +242,4 @@
 - [2026-07-01 21:23] feat: add QR code room sharing for fast mobile pairing
 - [2026-07-02 11:40] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-07-02 17:20] docs: update setup and local signaling server guide
+- [2026-07-02 20:19] docs: update setup and local signaling server guide
