@@ -250,3 +250,4 @@
 - [2026-07-03 13:10] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-07-03 13:38] docs: update setup and local signaling server guide
 - [2026-07-03 14:58] feat: add SHA-256 integrity checksum verification before save
+- [2026-07-03 16:09] feat: chunked file streaming with binary ArrayBuffer slicing
