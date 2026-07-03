@@ -252,3 +252,4 @@
 - [2026-07-03 14:58] feat: add SHA-256 integrity checksum verification before save
 - [2026-07-03 16:09] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-07-03 17:36] feat: add QR code room sharing for fast mobile pairing
+- [2026-07-03 17:48] docs: update setup and local signaling server guide
