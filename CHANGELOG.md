@@ -254,3 +254,4 @@
 - [2026-07-03 17:36] feat: add QR code room sharing for fast mobile pairing
 - [2026-07-03 17:48] docs: update setup and local signaling server guide
 - [2026-07-03 18:57] feat: add end-to-end AES-GCM file encryption layer
+- [2026-07-03 19:29] docs: document P2P signaling architecture and security model
