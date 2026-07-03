@@ -245,3 +245,4 @@
 - [2026-07-02 20:19] docs: update setup and local signaling server guide
 - [2026-07-03 09:33] docs: update setup and local signaling server guide
 - [2026-07-03 10:20] refactor: streamline peer connection state machine
+- [2026-07-03 11:15] fix: handle ICE candidate exchange timeout on restrictive NATs
