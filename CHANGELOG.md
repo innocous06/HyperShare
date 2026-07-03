@@ -14,3 +14,4 @@
 - [2026-06-21 16:35] fix: resolve memory leak in revoked window.URL.createObjectURL refs
 - [2026-06-25 17:32] chore: add start.bat and package-lock.json dependency manifest
 - [2026-06-29 19:13] feat: add end-to-end transfer speed calculation and ETA timer
+- [2026-07-03 15:41] refactor: modularize signaling event dispatch in server.js
