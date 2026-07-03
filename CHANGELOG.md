@@ -248,3 +248,4 @@
 - [2026-07-03 11:15] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-07-03 12:25] fix: memory leak in revoked ObjectURL references
 - [2026-07-03 13:10] fix: resolve packet drop on large file transfers (>1GB)
+- [2026-07-03 13:38] docs: update setup and local signaling server guide
