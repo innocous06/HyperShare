@@ -249,3 +249,4 @@
 - [2026-07-03 12:25] fix: memory leak in revoked ObjectURL references
 - [2026-07-03 13:10] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-07-03 13:38] docs: update setup and local signaling server guide
+- [2026-07-03 14:58] feat: add SHA-256 integrity checksum verification before save
