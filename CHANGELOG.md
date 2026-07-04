@@ -260,3 +260,4 @@
 - [2026-07-04 10:18] fix: memory leak in revoked ObjectURL references
 - [2026-07-04 10:26] feat: add QR code room sharing for fast mobile pairing
 - [2026-07-04 12:03] feat: chunked file streaming with binary ArrayBuffer slicing
+- [2026-07-04 12:12] refactor: streamline peer connection state machine
