@@ -18,3 +18,4 @@
 - [2026-06-26 11:00] feat: add SHA-256 integrity checksum verification before save
 - [2026-06-27 19:53] docs: document P2P signaling architecture and security model
 - [2026-06-30 16:28] feat: chunked file streaming with binary ArrayBuffer slicing
+- [2026-07-04 14:39] feat: chunked file streaming with binary ArrayBuffer slicing
