@@ -264,3 +264,4 @@
 - [2026-07-04 14:16] feat: add end-to-end AES-GCM file encryption layer
 - [2026-07-04 14:43] style: add drag-and-drop file upload zone with animated progress bar
 - [2026-07-04 15:36] fix: memory leak in revoked ObjectURL references
+- [2026-07-04 16:48] perf: optimize buffer memory allocation in stream writer
