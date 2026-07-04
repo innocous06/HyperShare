@@ -258,3 +258,4 @@
 - [2026-07-04 09:21] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-07-04 09:49] perf: optimize buffer memory allocation in stream writer
 - [2026-07-04 10:18] fix: memory leak in revoked ObjectURL references
+- [2026-07-04 10:26] feat: add QR code room sharing for fast mobile pairing
