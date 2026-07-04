@@ -267,3 +267,4 @@
 - [2026-07-04 16:48] perf: optimize buffer memory allocation in stream writer
 - [2026-07-04 17:23] test: add end-to-end tests for peer reconnection logic
 - [2026-07-04 17:40] test: add end-to-end tests for peer reconnection logic
+- [2026-07-04 18:21] docs: update setup and local signaling server guide
