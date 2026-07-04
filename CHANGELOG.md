@@ -256,3 +256,4 @@
 - [2026-07-03 18:57] feat: add end-to-end AES-GCM file encryption layer
 - [2026-07-03 19:29] docs: document P2P signaling architecture and security model
 - [2026-07-04 09:21] fix: handle ICE candidate exchange timeout on restrictive NATs
+- [2026-07-04 09:49] perf: optimize buffer memory allocation in stream writer
