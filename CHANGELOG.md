@@ -261,3 +261,4 @@
 - [2026-07-04 10:26] feat: add QR code room sharing for fast mobile pairing
 - [2026-07-04 12:03] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-07-04 12:12] refactor: streamline peer connection state machine
+- [2026-07-04 14:16] feat: add end-to-end AES-GCM file encryption layer
