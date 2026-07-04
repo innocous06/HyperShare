@@ -259,3 +259,4 @@
 - [2026-07-04 09:49] perf: optimize buffer memory allocation in stream writer
 - [2026-07-04 10:18] fix: memory leak in revoked ObjectURL references
 - [2026-07-04 10:26] feat: add QR code room sharing for fast mobile pairing
+- [2026-07-04 12:03] feat: chunked file streaming with binary ArrayBuffer slicing
