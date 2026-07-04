@@ -266,3 +266,4 @@
 - [2026-07-04 15:36] fix: memory leak in revoked ObjectURL references
 - [2026-07-04 16:48] perf: optimize buffer memory allocation in stream writer
 - [2026-07-04 17:23] test: add end-to-end tests for peer reconnection logic
+- [2026-07-04 17:40] test: add end-to-end tests for peer reconnection logic
