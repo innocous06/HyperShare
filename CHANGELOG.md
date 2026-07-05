@@ -277,3 +277,4 @@
 - [2026-07-05 13:52] refactor: streamline peer connection state machine
 - [2026-07-05 14:51] feat: add SHA-256 integrity checksum verification before save
 - [2026-07-05 14:54] refactor: streamline peer connection state machine
+- [2026-07-05 15:27] feat: implement WebRTC data channel handshake with STUN/TURN servers
