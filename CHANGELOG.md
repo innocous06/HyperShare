@@ -275,3 +275,4 @@
 - [2026-07-05 13:03] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-07-05 13:37] refactor: streamline peer connection state machine
 - [2026-07-05 13:52] refactor: streamline peer connection state machine
+- [2026-07-05 14:51] feat: add SHA-256 integrity checksum verification before save
