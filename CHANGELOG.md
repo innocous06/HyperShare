@@ -272,3 +272,4 @@
 - [2026-07-04 21:03] test: add end-to-end tests for peer reconnection logic
 - [2026-07-04 21:28] docs: document P2P signaling architecture and security model
 - [2026-07-05 11:15] feat: add QR code room sharing for fast mobile pairing
+- [2026-07-05 13:03] feat: chunked file streaming with binary ArrayBuffer slicing
