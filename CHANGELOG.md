@@ -281,3 +281,4 @@
 - [2026-07-05 15:58] refactor: streamline peer connection state machine
 - [2026-07-05 16:20] feat: add SHA-256 integrity checksum verification before save
 - [2026-07-05 16:24] feat: chunked file streaming with binary ArrayBuffer slicing
+- [2026-07-05 16:30] feat: add QR code room sharing for fast mobile pairing
