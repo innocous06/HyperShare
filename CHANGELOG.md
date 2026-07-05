@@ -284,3 +284,4 @@
 - [2026-07-05 16:30] feat: add QR code room sharing for fast mobile pairing
 - [2026-07-05 18:02] perf: optimize buffer memory allocation in stream writer
 - [2026-07-05 19:40] feat: add end-to-end AES-GCM file encryption layer
+- [2026-07-05 21:48] feat: chunked file streaming with binary ArrayBuffer slicing
