@@ -287,3 +287,4 @@
 - [2026-07-05 21:48] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-07-06 11:02] style: add drag-and-drop file upload zone with animated progress bar
 - [2026-07-06 18:51] docs: update setup and local signaling server guide
+- [2026-07-06 21:20] feat: add end-to-end AES-GCM file encryption layer
