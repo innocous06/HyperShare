@@ -290,3 +290,4 @@
 - [2026-07-06 21:20] feat: add end-to-end AES-GCM file encryption layer
 - [2026-07-06 21:31] feat: add QR code room sharing for fast mobile pairing
 - [2026-07-07 09:25] refactor: streamline peer connection state machine
+- [2026-07-07 11:48] fix: handle ICE candidate exchange timeout on restrictive NATs
