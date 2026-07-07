@@ -292,3 +292,4 @@
 - [2026-07-07 09:25] refactor: streamline peer connection state machine
 - [2026-07-07 11:48] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-07-07 12:31] feat: add QR code room sharing for fast mobile pairing
+- [2026-07-07 13:33] feat: add SHA-256 integrity checksum verification before save
