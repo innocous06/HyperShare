@@ -15,3 +15,4 @@
 - [2026-06-25 17:32] chore: add start.bat and package-lock.json dependency manifest
 - [2026-06-29 19:13] feat: add end-to-end transfer speed calculation and ETA timer
 - [2026-07-03 15:41] refactor: modularize signaling event dispatch in server.js
+- [2026-07-07 18:39] style: add animated transfer completion badge and sound effect
