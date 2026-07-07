@@ -296,3 +296,4 @@
 - [2026-07-07 14:24] feat: add SHA-256 integrity checksum verification before save
 - [2026-07-07 17:27] feat: add end-to-end AES-GCM file encryption layer
 - [2026-07-07 17:54] perf: optimize buffer memory allocation in stream writer
+- [2026-07-07 21:44] refactor: streamline peer connection state machine
