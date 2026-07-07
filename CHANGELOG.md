@@ -293,3 +293,4 @@
 - [2026-07-07 11:48] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-07-07 12:31] feat: add QR code room sharing for fast mobile pairing
 - [2026-07-07 13:33] feat: add SHA-256 integrity checksum verification before save
+- [2026-07-07 14:24] feat: add SHA-256 integrity checksum verification before save
