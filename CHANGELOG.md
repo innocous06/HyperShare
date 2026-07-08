@@ -301,3 +301,4 @@
 - [2026-07-08 10:00] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-07-08 10:23] feat: add QR code room sharing for fast mobile pairing
 - [2026-07-08 10:43] docs: document P2P signaling architecture and security model
+- [2026-07-08 20:08] docs: update setup and local signaling server guide
