@@ -300,3 +300,4 @@
 - [2026-07-07 23:15] fix: memory leak in revoked ObjectURL references
 - [2026-07-08 10:00] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-07-08 10:23] feat: add QR code room sharing for fast mobile pairing
+- [2026-07-08 10:43] docs: document P2P signaling architecture and security model
