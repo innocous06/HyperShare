@@ -299,3 +299,4 @@
 - [2026-07-07 21:44] refactor: streamline peer connection state machine
 - [2026-07-07 23:15] fix: memory leak in revoked ObjectURL references
 - [2026-07-08 10:00] feat: chunked file streaming with binary ArrayBuffer slicing
+- [2026-07-08 10:23] feat: add QR code room sharing for fast mobile pairing
