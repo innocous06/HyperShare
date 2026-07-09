@@ -303,3 +303,4 @@
 - [2026-07-08 10:43] docs: document P2P signaling architecture and security model
 - [2026-07-08 20:08] docs: update setup and local signaling server guide
 - [2026-07-08 21:17] feat: add end-to-end AES-GCM file encryption layer
+- [2026-07-09 10:13] docs: document P2P signaling architecture and security model
