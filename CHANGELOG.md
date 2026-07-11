@@ -21,3 +21,4 @@
 - [2026-07-04 14:39] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-07-08 20:47] style: add drag-and-drop file upload zone with animated progress bar
 - [2026-07-10 20:54] feat: chunked file streaming with binary ArrayBuffer slicing
+- [2026-07-11 16:23] fix: resolve packet drop on large file transfers (>1GB)
