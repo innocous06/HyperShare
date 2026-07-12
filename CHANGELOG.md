@@ -305,3 +305,4 @@
 - [2026-07-08 21:17] feat: add end-to-end AES-GCM file encryption layer
 - [2026-07-09 10:13] docs: document P2P signaling architecture and security model
 - [2026-07-09 19:16] test: add end-to-end tests for peer reconnection logic
+- [2026-07-12 09:09] style: add drag-and-drop file upload zone with animated progress bar
