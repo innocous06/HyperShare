@@ -306,3 +306,4 @@
 - [2026-07-09 10:13] docs: document P2P signaling architecture and security model
 - [2026-07-09 19:16] test: add end-to-end tests for peer reconnection logic
 - [2026-07-12 09:09] style: add drag-and-drop file upload zone with animated progress bar
+- [2026-07-12 12:55] fix: resolve packet drop on large file transfers (>1GB)
