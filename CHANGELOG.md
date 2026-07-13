@@ -310,3 +310,4 @@
 - [2026-07-12 16:52] feat: add QR code room sharing for fast mobile pairing
 - [2026-07-12 17:42] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-07-13 14:06] style: add drag-and-drop file upload zone with animated progress bar
+- [2026-07-13 15:42] feat: add QR code room sharing for fast mobile pairing
