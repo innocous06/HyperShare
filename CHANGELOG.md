@@ -313,3 +313,4 @@
 - [2026-07-13 15:42] feat: add QR code room sharing for fast mobile pairing
 - [2026-07-13 17:04] docs: document P2P signaling architecture and security model
 - [2026-07-13 17:10] test: add end-to-end tests for peer reconnection logic
+- [2026-07-13 18:49] refactor: streamline peer connection state machine
