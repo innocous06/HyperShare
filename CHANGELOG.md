@@ -317,3 +317,4 @@
 - [2026-07-14 09:23] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-07-14 12:48] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-07-14 14:19] fix: memory leak in revoked ObjectURL references
+- [2026-07-14 16:28] feat: add end-to-end AES-GCM file encryption layer
