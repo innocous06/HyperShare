@@ -318,3 +318,4 @@
 - [2026-07-14 12:48] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-07-14 14:19] fix: memory leak in revoked ObjectURL references
 - [2026-07-14 16:28] feat: add end-to-end AES-GCM file encryption layer
+- [2026-07-14 17:10] feat: add QR code room sharing for fast mobile pairing
