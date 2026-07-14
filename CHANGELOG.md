@@ -316,3 +316,4 @@
 - [2026-07-13 18:49] refactor: streamline peer connection state machine
 - [2026-07-14 09:23] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-07-14 12:48] fix: handle ICE candidate exchange timeout on restrictive NATs
+- [2026-07-14 14:19] fix: memory leak in revoked ObjectURL references
