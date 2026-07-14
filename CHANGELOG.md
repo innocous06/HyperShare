@@ -319,3 +319,4 @@
 - [2026-07-14 14:19] fix: memory leak in revoked ObjectURL references
 - [2026-07-14 16:28] feat: add end-to-end AES-GCM file encryption layer
 - [2026-07-14 17:10] feat: add QR code room sharing for fast mobile pairing
+- [2026-07-14 21:15] refactor: streamline peer connection state machine
