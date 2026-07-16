@@ -323,3 +323,4 @@
 - [2026-07-15 20:01] style: add drag-and-drop file upload zone with animated progress bar
 - [2026-07-16 08:22] feat: add SHA-256 integrity checksum verification before save
 - [2026-07-16 17:46] perf: optimize buffer memory allocation in stream writer
+- [2026-07-16 18:32] feat: add SHA-256 integrity checksum verification before save
