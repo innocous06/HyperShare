@@ -332,3 +332,4 @@
 - [2026-07-17 14:34] fix: memory leak in revoked ObjectURL references
 - [2026-07-17 15:18] style: add drag-and-drop file upload zone with animated progress bar
 - [2026-07-17 15:28] feat: chunked file streaming with binary ArrayBuffer slicing
+- [2026-07-17 15:50] fix: resolve packet drop on large file transfers (>1GB)
