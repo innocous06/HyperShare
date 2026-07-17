@@ -338,3 +338,4 @@
 - [2026-07-17 18:13] refactor: streamline peer connection state machine
 - [2026-07-17 18:53] docs: document P2P signaling architecture and security model
 - [2026-07-17 19:00] perf: optimize buffer memory allocation in stream writer
+- [2026-07-17 19:32] test: add end-to-end tests for peer reconnection logic
