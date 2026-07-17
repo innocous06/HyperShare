@@ -336,3 +336,4 @@
 - [2026-07-17 17:47] feat: add SHA-256 integrity checksum verification before save
 - [2026-07-17 17:59] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-07-17 18:13] refactor: streamline peer connection state machine
+- [2026-07-17 18:53] docs: document P2P signaling architecture and security model
