@@ -334,3 +334,4 @@
 - [2026-07-17 15:28] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-07-17 15:50] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-07-17 17:47] feat: add SHA-256 integrity checksum verification before save
+- [2026-07-17 17:59] fix: resolve packet drop on large file transfers (>1GB)
