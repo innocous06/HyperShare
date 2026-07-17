@@ -329,3 +329,4 @@
 - [2026-07-17 11:05] docs: document P2P signaling architecture and security model
 - [2026-07-17 11:29] perf: optimize buffer memory allocation in stream writer
 - [2026-07-17 13:48] refactor: streamline peer connection state machine
+- [2026-07-17 14:34] fix: memory leak in revoked ObjectURL references
