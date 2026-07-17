@@ -325,3 +325,4 @@
 - [2026-07-16 17:46] perf: optimize buffer memory allocation in stream writer
 - [2026-07-16 18:32] feat: add SHA-256 integrity checksum verification before save
 - [2026-07-17 09:10] perf: optimize buffer memory allocation in stream writer
+- [2026-07-17 09:18] feat: implement WebRTC data channel handshake with STUN/TURN servers
