@@ -340,3 +340,4 @@
 - [2026-07-17 19:00] perf: optimize buffer memory allocation in stream writer
 - [2026-07-17 19:32] test: add end-to-end tests for peer reconnection logic
 - [2026-07-17 20:50] docs: update setup and local signaling server guide
+- [2026-07-17 21:36] feat: chunked file streaming with binary ArrayBuffer slicing
