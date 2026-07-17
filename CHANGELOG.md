@@ -330,3 +330,4 @@
 - [2026-07-17 11:29] perf: optimize buffer memory allocation in stream writer
 - [2026-07-17 13:48] refactor: streamline peer connection state machine
 - [2026-07-17 14:34] fix: memory leak in revoked ObjectURL references
+- [2026-07-17 15:18] style: add drag-and-drop file upload zone with animated progress bar
