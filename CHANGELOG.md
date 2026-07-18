@@ -343,3 +343,4 @@
 - [2026-07-17 21:36] feat: chunked file streaming with binary ArrayBuffer slicing
 - [2026-07-18 10:44] refactor: streamline peer connection state machine
 - [2026-07-18 15:57] feat: add end-to-end AES-GCM file encryption layer
+- [2026-07-18 16:08] refactor: streamline peer connection state machine
