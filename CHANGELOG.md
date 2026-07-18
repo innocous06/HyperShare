@@ -344,3 +344,4 @@
 - [2026-07-18 10:44] refactor: streamline peer connection state machine
 - [2026-07-18 15:57] feat: add end-to-end AES-GCM file encryption layer
 - [2026-07-18 16:08] refactor: streamline peer connection state machine
+- [2026-07-18 20:09] fix: handle ICE candidate exchange timeout on restrictive NATs
