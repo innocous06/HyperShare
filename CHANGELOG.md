@@ -341,3 +341,4 @@
 - [2026-07-17 19:32] test: add end-to-end tests for peer reconnection logic
 - [2026-07-17 20:50] docs: update setup and local signaling server guide
 - [2026-07-17 21:36] feat: chunked file streaming with binary ArrayBuffer slicing
+- [2026-07-18 10:44] refactor: streamline peer connection state machine
