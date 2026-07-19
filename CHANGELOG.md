@@ -18,3 +18,4 @@
 - [2026-07-07 18:39] style: add animated transfer completion badge and sound effect
 - [2026-07-11 10:12] test: add unit tests for binary packet header parser
 - [2026-07-15 20:43] perf: increase chunk buffer window size on low-latency local networks
+- [2026-07-19 15:54] fix: prevent duplicate peer ID collision in connection registry
