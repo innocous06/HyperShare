@@ -348,3 +348,4 @@
 - [2026-07-19 17:25] fix: memory leak in revoked ObjectURL references
 - [2026-07-20 15:40] feat: add QR code room sharing for fast mobile pairing
 - [2026-07-20 17:40] refactor: streamline peer connection state machine
+- [2026-07-20 20:56] feat: add SHA-256 integrity checksum verification before save
