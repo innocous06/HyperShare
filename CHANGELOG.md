@@ -346,3 +346,4 @@
 - [2026-07-18 16:08] refactor: streamline peer connection state machine
 - [2026-07-18 20:09] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-07-19 17:25] fix: memory leak in revoked ObjectURL references
+- [2026-07-20 15:40] feat: add QR code room sharing for fast mobile pairing
