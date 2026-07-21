@@ -356,3 +356,4 @@
 - [2026-07-21 15:16] docs: document P2P signaling architecture and security model
 - [2026-07-21 17:37] feat: add SHA-256 integrity checksum verification before save
 - [2026-07-21 18:43] perf: optimize buffer memory allocation in stream writer
+- [2026-07-21 19:57] fix: resolve packet drop on large file transfers (>1GB)
