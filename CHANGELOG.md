@@ -350,3 +350,4 @@
 - [2026-07-20 17:40] refactor: streamline peer connection state machine
 - [2026-07-20 20:56] feat: add SHA-256 integrity checksum verification before save
 - [2026-07-21 09:45] feat: add SHA-256 integrity checksum verification before save
+- [2026-07-21 10:04] test: add end-to-end tests for peer reconnection logic
