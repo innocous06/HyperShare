@@ -357,3 +357,4 @@
 - [2026-07-21 17:37] feat: add SHA-256 integrity checksum verification before save
 - [2026-07-21 18:43] perf: optimize buffer memory allocation in stream writer
 - [2026-07-21 19:57] fix: resolve packet drop on large file transfers (>1GB)
+- [2026-07-22 09:32] refactor: streamline peer connection state machine
