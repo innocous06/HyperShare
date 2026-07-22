@@ -360,3 +360,4 @@
 - [2026-07-22 09:32] refactor: streamline peer connection state machine
 - [2026-07-22 11:54] feat: implement WebRTC data channel handshake with STUN/TURN servers
 - [2026-07-22 12:45] refactor: streamline peer connection state machine
+- [2026-07-22 13:42] fix: handle ICE candidate exchange timeout on restrictive NATs
