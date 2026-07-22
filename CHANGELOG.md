@@ -359,3 +359,4 @@
 - [2026-07-21 19:57] fix: resolve packet drop on large file transfers (>1GB)
 - [2026-07-22 09:32] refactor: streamline peer connection state machine
 - [2026-07-22 11:54] feat: implement WebRTC data channel handshake with STUN/TURN servers
+- [2026-07-22 12:45] refactor: streamline peer connection state machine
