@@ -19,3 +19,4 @@
 - [2026-07-11 10:12] test: add unit tests for binary packet header parser
 - [2026-07-15 20:43] perf: increase chunk buffer window size on low-latency local networks
 - [2026-07-19 15:54] fix: prevent duplicate peer ID collision in connection registry
+- [2026-07-23 10:50] feat: add batch multi-file zip bundling before peer transmission
