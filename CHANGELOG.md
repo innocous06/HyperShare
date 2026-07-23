@@ -371,3 +371,4 @@
 - [2026-07-23 15:25] fix: handle ICE candidate exchange timeout on restrictive NATs
 - [2026-07-23 17:44] fix: memory leak in revoked ObjectURL references
 - [2026-07-23 18:15] feat: implement WebRTC data channel handshake with STUN/TURN servers
+- [2026-07-23 22:46] perf: optimize buffer memory allocation in stream writer
