@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HyperShare</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="background">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+    </div>
+    
+    <div class="container">
+        <header>
+            <h1><i class="fa-solid fa-bolt text-gradient"></i> HyperShare</h1>
+            <p>Maximum speed local network transfer</p>
+        </header>
+
+        <main>
+            <div class="card upload-card" id="drop-zone">
+                <input type="file" id="file-input" multiple hidden>
+                <div class="upload-icon">
+                    <i class="fa-solid fa-cloud-arrow-up"></i>
+                </div>
+                <h2>Drop files here</h2>
+                <p>or click to browse</p>
+                
+                <div class="progress-container" id="progress-container" style="display: none;">
+                    <div class="progress-info">
+                        <span id="progress-text">Uploading...</span>
+                        <span id="speed-text">0 MB/s</span>
+                    </div>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progress-fill"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card files-card">
+                <div class="files-header">
+                    <h2><i class="fa-solid fa-folder-open"></i> Available Files</h2>
+                    <button class="refresh-btn" id="refresh-btn" title="Refresh"><i class="fa-solid fa-rotate-right"></i></button>
+                </div>
+                <div class="files-list" id="files-list">
+                    <!-- Files injected by JS -->
+                    <div class="empty-state">No files available</div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

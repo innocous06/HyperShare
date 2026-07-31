@@ -1,0 +1,336 @@
+:root {
+    --bg-color: #0f172a;
+    --text-main: #f8fafc;
+    --text-muted: #94a3b8;
+    --accent: #3b82f6;
+    --accent-hover: #2563eb;
+    --accent-gradient: linear-gradient(135deg, #3b82f6, #8b5cf6);
+    --glass-bg: rgba(30, 41, 59, 0.7);
+    --glass-border: rgba(255, 255, 255, 0.1);
+    --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    --card-radius: 20px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+}
+
+/* Background Animated Blobs */
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    overflow: hidden;
+}
+
+.blob {
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(80px);
+    opacity: 0.5;
+    animation: float 10s infinite alternate ease-in-out;
+}
+
+.blob-1 {
+    width: 400px;
+    height: 400px;
+    background: #3b82f6;
+    top: -100px;
+    left: -100px;
+}
+
+.blob-2 {
+    width: 300px;
+    height: 300px;
+    background: #8b5cf6;
+    bottom: -50px;
+    right: -50px;
+    animation-delay: -5s;
+}
+
+@keyframes float {
+    0% { transform: translate(0, 0) scale(1); }
+    100% { transform: translate(50px, 50px) scale(1.1); }
+}
+
+/* Container */
+.container {
+    width: 90%;
+    max-width: 800px;
+    z-index: 1;
+    padding: 2rem 0;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+header h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.text-gradient {
+    background: var(--accent-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+header p {
+    color: var(--text-muted);
+    font-size: 1.1rem;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+/* Glassmorphism Card */
+.card {
+    background: var(--glass-bg);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--card-radius);
+    padding: 2rem;
+    box-shadow: var(--glass-shadow);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Upload Card */
+.upload-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 2px dashed rgba(255, 255, 255, 0.2);
+    cursor: pointer;
+    min-height: 250px;
+}
+
+.upload-card:hover, .upload-card.dragover {
+    border-color: var(--accent);
+    background: rgba(59, 130, 246, 0.1);
+    transform: translateY(-2px);
+}
+
+.upload-icon {
+    font-size: 4rem;
+    background: var(--accent-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 1rem;
+    transition: transform 0.3s ease;
+}
+
+.upload-card:hover .upload-icon, .upload-card.dragover .upload-icon {
+    transform: scale(1.1) translateY(-5px);
+}
+
+.upload-card h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.upload-card p {
+    color: var(--text-muted);
+}
+
+/* Progress UI */
+.progress-container {
+    width: 100%;
+    margin-top: 1.5rem;
+}
+
+.progress-info {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    color: var(--text-main);
+}
+
+#speed-text {
+    color: var(--accent);
+    font-weight: 600;
+}
+
+.progress-bar {
+    width: 100%;
+    height: 8px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.progress-fill {
+    height: 100%;
+    width: 0%;
+    background: var(--accent-gradient);
+    border-radius: 4px;
+    transition: width 0.1s linear;
+}
+
+/* Files Card */
+.files-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.files-header h2 {
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.refresh-btn {
+    background: rgba(255, 255, 255, 0.1);
+    border: none;
+    color: var(--text-main);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1.2rem;
+    transition: all 0.3s ease;
+}
+
+.refresh-btn:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: rotate(180deg);
+}
+
+.files-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-height: 400px;
+    overflow-y: auto;
+    padding-right: 5px;
+}
+
+.files-list::-webkit-scrollbar {
+    width: 6px;
+}
+
+.files-list::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 3px;
+}
+
+.file-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    transition: all 0.2s ease;
+}
+
+.file-item:hover {
+    background: rgba(255, 255, 255, 0.1);
+    transform: translateX(5px);
+}
+
+.file-info {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    overflow: hidden;
+}
+
+.file-icon {
+    font-size: 1.5rem;
+    color: var(--accent);
+}
+
+.file-details {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.file-name {
+    font-weight: 600;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 400px;
+}
+
+.file-meta {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+}
+
+.file-actions {
+    display: flex;
+    gap: 10px;
+}
+
+.btn-download, .btn-delete {
+    background: none;
+    border: none;
+    color: var(--text-muted);
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.btn-download:hover {
+    color: var(--accent);
+    transform: scale(1.1) translateY(-2px);
+}
+
+.btn-delete:hover {
+    color: #ef4444;
+    transform: scale(1.1) translateY(-2px);
+}
+
+.empty-state {
+    text-align: center;
+    padding: 2rem;
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .file-name {
+        max-width: 200px;
+    }
+}
+@media (max-width: 480px) {
+    .file-name {
+        max-width: 120px;
+    }
+}
