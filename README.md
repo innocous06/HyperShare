@@ -1,46 +1,55 @@
-# HyperShare 
+# HyperShare
 
-HyperShare is a completely local, high-speed file transfer web application built to maximize bandwidth between your PC and mobile devices over Wi-Fi (especially Wi-Fi 6).
+A local, high-speed file transfer application that streams files between a PC and mobile devices over Wi-Fi. Bypasses cloud relays, TLS overhead, and multipart form parsing to achieve near-gigabit throughput on modern local networks.
 
-By completely avoiding cloud relays, TLS overhead, and multipart form-data parsing, HyperShare is capable of achieving near-gigabit speeds on modern local networks.
+## Requirements
 
-## Features
+- Node.js 18+
 
-- **Blazing Fast**: Streams raw binary data directly to disk without loading it into RAM first.
-- **No Setup Needed**: Run the `.exe` and it instantly starts.
-- **Zero Install on Phone**: Just open the local IP address on your phone's browser.
-- **Customizable Folder**: Drag and drop any folder onto the executable, or run via command line to change the sharing location.
-- **Premium UI**: Sleek glassmorphism design with real-time transfer speeds and progress bars.
+## Installation
 
-## How to use
-
-### Standard Usage
-1. Go to the [Releases](../../releases) tab on this GitHub repository and download the `HyperShare.exe` file.
-2. Double click `HyperShare.exe`.
-3. A command prompt will open, displaying an IP address (e.g., `http://192.168.1.37:3000`).
-4. Make sure your phone is connected to the same Wi-Fi network.
-5. Open your phone's browser and go to that IP address.
-6. Drop files into the UI to send them to the PC, or download files from the PC.
-
-*By default, the app shares a folder called `uploads` in the exact same directory where you placed `HyperShare.exe`.*
-
-### Custom Sharing Folder
-If you want to share a specific folder (like your Downloads folder), simply drag and drop that folder directly onto the `HyperShare.exe` icon in Windows. It will open and share that folder instead!
-
-Alternatively, you can run it via command line:
-```cmd
-HyperShare.exe "C:\Users\YourName\Downloads"
+```sh
+git clone https://github.com/innocous06/HyperShare.git
+cd HyperShare
+npm install
 ```
 
-## How to build from source
+Alternatively, download the pre-built `HyperShare.exe` from the Releases tab and run it directly.
 
-If you want to build the executable yourself instead of using the provided release:
+## Usage
 
-1. Clone this repository.
-2. Run `npm install` to install dependencies.
-3. Run `npm run build` (or `npx pkg . --targets node18-win-x64 --output HyperShare.exe`).
+```sh
+npm start
+```
 
-## Technologies Used
-- Node.js (Express, raw HTTP streaming)
-- HTML/CSS/Vanilla JS (Frontend UI)
-- `pkg` (Executable bundling)
+The server starts and displays a local IP address (e.g. `http://192.168.1.37:3000`). Open that address in a browser on any device connected to the same Wi-Fi network.
+
+To share a specific folder, pass it as an argument:
+
+```sh
+node server.js "C:\Users\YourName\Downloads"
+```
+
+Or drag and drop a folder onto `HyperShare.exe` on Windows.
+
+By default, the app shares an `uploads` folder in the same directory as the executable.
+
+## Building from source
+
+```sh
+npm run build
+```
+
+This produces a self-contained `HyperShare.exe` using `pkg`.
+
+## License
+
+MIT License
+
+Copyright (c) 2024 innocous06
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
