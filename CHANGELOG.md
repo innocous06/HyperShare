@@ -374,3 +374,4 @@
 - [2026-07-23 22:46] perf: optimize buffer memory allocation in stream writer
 - [2026-07-24 18:10] docs: update setup and local signaling server guide
 - [2026-08-06 14:13] fix: resolve packet drop on large file transfers (>1GB)
+- [2026-08-06 20:15] fix: memory leak in revoked ObjectURL references
