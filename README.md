@@ -1,4 +1,4 @@
-# HyperShare ⚡️
+# HyperShare 
 
 HyperShare is a completely local, high-speed file transfer web application built to maximize bandwidth between your PC and mobile devices over Wi-Fi (especially Wi-Fi 6).
 
